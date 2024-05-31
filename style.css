@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kode+Mono:wght@400..700&display=swap');
+h1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    /* font-size: 1em; */
+    font-family: "Kode Mono";
+    /* width: fit-content; */
+    background: yellow;
+}
+.class1{
+    text-transform: uppercase;
+    color:aqua
+
+}
+.class2{
+    text-transform: uppercase;
+    color:red
+}
